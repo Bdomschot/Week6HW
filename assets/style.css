@@ -1,0 +1,23 @@
+.styleUV-index{
+    width: fit-content;
+    color: white;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: -1px -1px 21px 0px rgba(50, 50, 50, 0.75);
+ 
+}
+.green{
+    background-color: green; 
+}
+.yellow{
+    background-color: yellow;
+    color: black;
+}
+.orange{
+    background-color: orange;
+    color: black;
+}
+.red{
+    background-color: red;
+}
